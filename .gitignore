@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.exe
+*.bin
+*.class
+*.o
+
+# Ignore CP Helper folder
+.cph/
+
+# Ignore temp files
+tempCodeRunnerFile.*
+
+# Ignore duplicate folders
+CP - Copy/
