@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="mess.css">
+    <meta charset="UTF-8">
+    <title>Personal Profile</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script>
+        function showAlert(msg) {
+            alert(msg);
+            return true;
+        }
+    </script>
+</head>
+
+<body>
+
+<header>
+    <marquee direction="right" scrollamount="6">
+        <strong>
+            <picture>
+                <img src="img/2.png" alt="NIT Kurukshetra Logo" width="120" height="120">
+            </picture>
+        </strong>
+    </marquee>
+
+    <center>
+        <img src="download.jpg" width="300" height="300" usemap="#corners">
+        <map name="corners">
+            <area shape="rect" coords="0,0,150,150" href="https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum" target="_blank">
+            <area shape="rect" coords="150,0,300,150" href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank">
+            <area shape="rect" coords="0,150,150,300" href="https://example.com/cleanliness" target="_blank">
+            <area shape="rect" coords="150,150,300,300" href="https://example.com/other" target="_blank">
+        </map>
+
+        <h1>H7 Girivar Bhavan</h1>
+        <h3>Boys Hostel</h3>
+        <hr width="90%">
+    </center>
+</header>
+
+<main>
+<section>
+
+    <h3>Hostel Image</h3>
+    <picture>
+        <img src="bg.jpg" style="width:100%; max-width:600px;">
+    </picture>
+
+    <h3>Hostel Facilities</h3>
+    <p>
+        Mess food is not good. Hostel is not clean. People burst crackers in the premises.
+        The hostel gives a fine for very small issues.
+        There is no way to blow up the hostel.
+    </p>
+
+    <h3>Rules and Regulations</h3>
+    <ol>
+        <li>You can burst crackers</li>
+        <li>You can play loud music at night</li>
+        <li>Mess is not compulsory</li>
+    </ol>
+
+    <h3>Room Details</h3>
+    <a href="https://www.google.com">Go to Google</a>
+
+    <table border="1" cellspacing="0">
+        <tr>
+            <th>Single</th>
+            <th>Double</th>
+            <th>Triple</th>
+        </tr>
+        <tr>
+            <td>500</td>
+            <td>300</td>
+            <td>200</td>
+        </tr>
+    </table>
+
+    <h3>Complaint Section</h3>
+
+    <form method="get" action="complaint.html" onsubmit="return showAlert('Complaint submitted successfully')">
+        <fieldset>
+            <legend><strong>Complaint Details</strong></legend>
+
+            <textarea rows="4" cols="40" name="complaint" placeholder="Enter your message"></textarea>
+            <br><br>
+
+            <label><strong>Select Issues (Multiple):</strong></label><br>
+            <select name="issues[]" multiple size="3">
+                <option value="Food">Food</option>
+                <option value="Room">Room</option>
+                <option value="Cleanliness">Cleanliness</option>
+            </select>
+
+            <br><br>
+            <button type="submit">Submit</button>
+        </fieldset>
+    </form>
+
+    <hr width="90%">
+
+    <h3>Medical Leave</h3>
+    <a href="login.html">Click here to Apply for Medical Leave</a>
+
+</section>
+</main>
+
+</body>
+</html>

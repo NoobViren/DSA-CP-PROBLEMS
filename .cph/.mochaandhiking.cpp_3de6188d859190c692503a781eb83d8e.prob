@@ -1,0 +1,1 @@
+{"name":"Local: mochaandhiking","url":"c:\\COMPETETIVE PROGRAMMING\\mochaandhiking.cpp","tests":[{"id":1768305341477,"input":"2\n3\n0 1 0\n3\n1 1 0\n","output":"1 4 2 3 \n4 1 2 3 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\mochaandhiking.cpp","group":"local","local":true}

@@ -1,0 +1,44 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int t;
+    cin>>t;
+    while(t--){
+        string s;
+        cin>>s;
+        int n = s.size();
+        int l = 0,r = 2;
+        set<int>removed;
+        while(r<n){
+            string temp =  s.substr(l,3);
+            string temp2 = s.substr(l,5);
+            if(temp2 == "twone"){
+                removed.insert(l+2);
+                l+=5;
+                r+=5;
+            }
+            else if(temp == "one"){
+                removed.insert(l+1);
+                l+=3;
+                r+=3;
+            }
+           else if(temp == "two"){
+              removed.insert(l+1);
+              l+=3;
+              r+=3;
+
+           }
+           else {
+            l++;
+            r++;
+           }
+        }
+        int ans = removed.size();
+        cout<<ans<<'\n';
+        for(auto &it : removed){
+            cout<<it+1<<" ";
+        }
+        cout<<'\n';
+
+    }
+}

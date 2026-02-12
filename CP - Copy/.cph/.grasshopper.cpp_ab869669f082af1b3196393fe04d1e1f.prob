@@ -1,0 +1,1 @@
+{"name":"Local: grasshopper","url":"d:\\CP\\grasshopper.cpp","tests":[{"id":1742831936125,"input":"3\n10 2\n10 3\n3 4\n","output":"2\n7 3\n1\n10\n1\n3\n"},{"id":1742831954942,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\grasshopper.cpp","group":"local","local":true}

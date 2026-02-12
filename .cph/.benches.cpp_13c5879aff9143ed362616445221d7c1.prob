@@ -1,0 +1,1 @@
+{"name":"Local: benches","url":"c:\\COMPETETIVE PROGRAMMING\\benches.cpp","tests":[{"id":1752575885881,"input":"4\n6\n1\n1\n1\n1\n","output":"3 7\n"},{"id":1752575975313,"input":"3\n7\n1\n6\n5\n","output":"7 13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\benches.cpp","group":"local","local":true}

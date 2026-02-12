@@ -1,0 +1,1 @@
+{"name":"Local: yuhaoparen","url":"c:\\COMPETETIVE PROGRAMMING\\yuhaoparen.cpp","tests":[{"id":1767939771958,"input":"7\n)())\n)\n((\n((\n(\n)\n)","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\yuhaoparen.cpp","group":"local","local":true}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SUM OF Numbers</title>
+</head>
+<body>
+
+<h2>Enter DETAILS</h2>
+<h1 id="details"></h1>
+<input type = "text" id = "name" placeholder="name"><br></br>
+<input type = "number" id = "id" placeholder="id"><br></br>
+<input type = "number" id = "age" placeholder="age"><br></br>
+<button onclick="getdetails()">submit</button>
+<script>
+    
+  var name = document.getElementById("name").value;
+   var id = document.getElementById("id").value;
+   var age = document.getElementById("age").value;
+     
+   document.getElementById("details").innerHTML = "Name:" + name + "id:" + id + "age:" + age
+      
+  </script>
+
+</body>
+</html>

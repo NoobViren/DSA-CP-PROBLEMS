@@ -1,0 +1,1 @@
+{"name":"Local: minimisesum","url":"c:\\COMPETETIVE PROGRAMMING\\minimisesum.cpp","tests":[{"id":1751864925445,"input":"3\n2\n1 2\n3\n1 2 3\n4\n3 0 2 3","output":"2\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\minimisesum.cpp","group":"local","local":true}

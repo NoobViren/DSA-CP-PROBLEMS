@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salesperson Salary Calculator</title>
+    <script>
+        function calculateSalaries() {
+            const salaryRanges = [0, 0, 0, 0, 0, 0, 0, 0, 0]; // Array to count salaries in ranges
+            const grossSales = document.getElementById("grossSales").value.split(",").map(Number);
+
+            grossSales.forEach(sales => {
+                const salary = Math.trunc(200 + (0.09 * sales)); // Calculate salary
+                let rangeIndex;
+
+                if (salary >= 1000) {
+                    rangeIndex = 8; // $1000 and over
+                } else {
+                    rangeIndex = Math.trunc((salary - 200) / 100); // Determine range index
+                }
+
+                salaryRanges[rangeIndex]++;
+            });
+
+            // Display results
+            const ranges = [
+                "$200-299", "$300-399", "$400-499", "$500-599",
+                "$600-699", "$700-799", "$800-899", "$900-999", "$1000 and over"
+            ];
+
+            let result = "Salary Ranges:<br>";
+            ranges.forEach((range, index) => {
+                result += `${range}: ${salaryRanges[index]}<br>`;
+            });
+
+            document.getElementById("result").innerHTML = result;
+        }
+    </script>
+</head>
+<body>
+    <h1>Salesperson Salary Calculator</h1>
+    <p>Enter gross sales for each employee, separated by commas:</p>
+    <input type="text" id="grossSales" placeholder="e.g., 5000,3000,7000">
+    <button onclick="calculateSalaries()">Calculate</button>
+    <div id="result"></div>
+</body>
+</html>

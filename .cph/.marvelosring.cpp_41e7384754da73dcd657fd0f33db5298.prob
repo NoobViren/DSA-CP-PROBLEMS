@@ -1,0 +1,1 @@
+{"name":"Local: marvelosring","url":"c:\\COMPETETIVE PROGRAMMING\\marvelosring.cpp","tests":[{"id":1769766190550,"input":"5 1 2 3\n1 2 3 4 5\n","output":"30"},{"id":1769766746982,"input":"5 1 2 -3\n-1 -2 -3 -4 -5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\marvelosring.cpp","group":"local","local":true}

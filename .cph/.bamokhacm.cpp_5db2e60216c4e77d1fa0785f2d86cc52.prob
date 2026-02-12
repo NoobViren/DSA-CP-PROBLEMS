@@ -1,0 +1,1 @@
+{"name":"Local: bamokhacm","url":"c:\\COMPETETIVE PROGRAMMING\\bamokhacm.cpp","tests":[{"id":1761807752080,"input":"3 2\n","output":"5"},{"id":1761808625973,"input":"1478 194","output":"312087753"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\bamokhacm.cpp","group":"local","local":true}

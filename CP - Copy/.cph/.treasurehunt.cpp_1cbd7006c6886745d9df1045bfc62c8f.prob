@@ -1,0 +1,1 @@
+{"name":"Local: treasurehunt","url":"d:\\CP\\treasurehunt.cpp","tests":[{"id":1742817044865,"input":"3\n1 2 4\n2 1 4\n2 2 1","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\treasurehunt.cpp","group":"local","local":true}

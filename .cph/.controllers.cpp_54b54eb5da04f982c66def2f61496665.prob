@@ -1,0 +1,1 @@
+{"name":"Local: controllers","url":"c:\\COMPETETIVE PROGRAMMING\\controllers.cpp","tests":[{"id":1766946093274,"input":"8\n+-+---+-\n5\n2 1\n10 3\n7 9\n10 10\n5 3\n","output":"YES\nNO\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\controllers.cpp","group":"local","local":true}

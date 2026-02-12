@@ -1,0 +1,4 @@
+def solve(a,b):
+    if a==0 or b>a: return 0;
+    return 1 + min(solve(a//b,b+1),solve(a,b+1))
+print(solve(1337,1));

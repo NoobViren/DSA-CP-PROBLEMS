@@ -1,0 +1,1 @@
+{"name":"Local: blackboardgame","url":"c:\\COMPETETIVE PROGRAMMING\\blackboardgame.cpp","tests":[{"id":1751380876274,"input":"5\n2\n4\n5\n7\n100\n","output":"Alice\nBob\nAlice\nAlice\nBob\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\blackboardgame.cpp","group":"local","local":true}

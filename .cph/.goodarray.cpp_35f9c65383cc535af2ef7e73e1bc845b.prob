@@ -1,0 +1,1 @@
+{"name":"Local: goodarray","url":"c:\\COMPETETIVE PROGRAMMING\\goodarray.cpp","tests":[{"id":1756890267307,"input":"5\n2 5 1 2 2","output":"3\n4 1 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\goodarray.cpp","group":"local","local":true}

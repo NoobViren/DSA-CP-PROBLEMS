@@ -1,0 +1,1 @@
+{"name":"Local: 183183","url":"c:\\COMPETETIVE PROGRAMMING\\183183.cpp","tests":[{"id":1770545121374,"input":"2 11\n2 42\n","output":"2"},{"id":1770545140869,"input":"4 7\n2 8 16 183\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\183183.cpp","group":"local","local":true}

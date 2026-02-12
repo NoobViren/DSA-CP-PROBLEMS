@@ -1,0 +1,1 @@
+{"name":"Local: gamewithstring","url":"c:\\COMPETETIVE PROGRAMMING\\gamewithstring.cpp","tests":[{"id":1752569260465,"input":"abacaba\n","output":"No\n"},{"id":1752569321646,"input":"iiq","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\gamewithstring.cpp","group":"local","local":true}

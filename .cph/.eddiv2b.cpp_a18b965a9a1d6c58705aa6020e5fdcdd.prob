@@ -1,0 +1,1 @@
+{"name":"Local: eddiv2b","url":"c:\\COMPETETIVE PROGRAMMING\\eddiv2b.cpp","tests":[{"id":1764342593591,"input":"3\n5\n0 5 1 0 1\n3\n3 2 1\n5\n1 1 1 1 1","output":"3\n3\n1"},{"id":1764434477035,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\eddiv2b.cpp","group":"local","local":true}

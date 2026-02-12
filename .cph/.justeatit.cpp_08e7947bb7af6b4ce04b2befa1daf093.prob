@@ -1,0 +1,1 @@
+{"name":"Local: justeatit","url":"c:\\COMPETETIVE PROGRAMMING\\justeatit.cpp","tests":[{"id":1757089332046,"input":"3\n4\n1 2 3 4\n3\n7 4 -1\n3\n5 -5 5","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\justeatit.cpp","group":"local","local":true}

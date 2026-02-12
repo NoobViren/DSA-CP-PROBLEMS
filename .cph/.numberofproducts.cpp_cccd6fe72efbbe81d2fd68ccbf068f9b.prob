@@ -1,0 +1,1 @@
+{"name":"Local: numberofproducts","url":"c:\\COMPETETIVE PROGRAMMING\\numberofproducts.cpp","tests":[{"id":1766571147700,"input":"5\n5 -3 3 -1 1","output":"8 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\numberofproducts.cpp","group":"local","local":true}

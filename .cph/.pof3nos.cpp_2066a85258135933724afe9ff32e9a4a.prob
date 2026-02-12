@@ -1,0 +1,1 @@
+{"name":"Local: pof3nos","url":"c:\\COMPETETIVE PROGRAMMING\\pof3nos.cpp","tests":[{"id":1756965169617,"input":"5\n64\n32\n97\n2\n12345\n","output":"YES\n2 4 8 \nNO\nNO\nNO\nYES\n3 5 823 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\pof3nos.cpp","group":"local","local":true}

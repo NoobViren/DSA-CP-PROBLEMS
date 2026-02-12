@@ -1,0 +1,1 @@
+{"name":"Local: bkbll","url":"d:\\CP\\bkbll.cpp","tests":[{"id":1745218098511,"input":"6 15\n4 8 7 2 9 15","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\bkbll.cpp","group":"local","local":true}

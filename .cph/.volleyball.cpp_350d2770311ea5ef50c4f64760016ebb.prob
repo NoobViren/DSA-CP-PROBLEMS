@@ -1,0 +1,1 @@
+{"name":"Local: volleyball","url":"c:\\COMPETETIVE PROGRAMMING\\volleyball.cpp","tests":[{"id":1770306749907,"input":"4 4\n1 3\n1 2 3\n1 4 1\n2 4 1\n2 3 5\n2 7\n7 2\n1 2\n7 7","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\volleyball.cpp","group":"local","local":true}

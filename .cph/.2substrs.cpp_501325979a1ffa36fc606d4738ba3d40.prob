@@ -1,0 +1,1 @@
+{"name":"Local: 2substrs","url":"c:\\COMPETETIVE PROGRAMMING\\2substrs.cpp","tests":[{"id":1770314908265,"input":"ABA\n","output":""},{"id":1770314918647,"input":"BACFAB\n","output":""},{"id":1770314925904,"input":"AXBYBXA\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\2substrs.cpp","group":"local","local":true}

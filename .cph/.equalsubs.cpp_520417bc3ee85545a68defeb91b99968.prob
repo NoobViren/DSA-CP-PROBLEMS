@@ -1,0 +1,1 @@
+{"name":"Local: equalsubs","url":"c:\\COMPETETIVE PROGRAMMING\\equalsubs.cpp","tests":[{"id":1750356800715,"input":"6\n4 2\n5 3\n5 5\n6 2\n1 1\n1 0\n","output":"1010\n10110\n11111\n100010\n1\n0"},{"id":1750357792333,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\equalsubs.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: obtainstr","url":"c:\\COMPETETIVE PROGRAMMING\\obtainstr.cpp","tests":[{"id":1768925902591,"input":"3\naabce\nace\nabacaba\naax\nty\nyyt","output":"1\n-1\n3"},{"id":1770891017375,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\obtainstr.cpp","group":"local","local":true}

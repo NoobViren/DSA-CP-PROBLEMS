@@ -1,0 +1,1 @@
+{"name":"Local: downwithBrackets","url":"c:\\DSALABWORK\\downwithBrackets.cpp","tests":[{"id":1749801680942,"input":"4\n(())\n(())()()\n()\n(())(())\n","output":"NO\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSALABWORK\\downwithBrackets.cpp","group":"local","local":true}

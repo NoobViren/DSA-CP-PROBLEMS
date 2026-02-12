@@ -1,0 +1,1 @@
+{"name":"Local: optimalshifts","url":"c:\\COMPETETIVE PROGRAMMING\\optimalshifts.cpp","tests":[{"id":1766040201223,"input":"5\n1\n1\n3\n101\n4\n0110\n11\n10101010100\n2\n11\n","output":"0\n1\n2\n2\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\optimalshifts.cpp","group":"local","local":true}

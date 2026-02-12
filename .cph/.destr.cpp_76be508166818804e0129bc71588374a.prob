@@ -1,0 +1,1 @@
+{"name":"Local: destr","url":"c:\\DSALABWORK\\destr.cpp","tests":[{"id":1749535678272,"input":"7\nabacaba","output":"YES\n2 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSALABWORK\\destr.cpp","group":"local","local":true}

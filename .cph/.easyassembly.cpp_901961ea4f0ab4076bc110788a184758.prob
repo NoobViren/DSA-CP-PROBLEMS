@@ -1,0 +1,1 @@
+{"name":"Local: easyassembly","url":"c:\\COMPETETIVE PROGRAMMING\\easyassembly.cpp","tests":[{"id":1767428899728,"input":"2\n3 3 5 8\n2 9 2","output":"1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\easyassembly.cpp","group":"local","local":true}

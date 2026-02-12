@@ -1,0 +1,1 @@
+{"name":"Local: yestanotherproblem","url":"c:\\COMPETETIVE PROGRAMMING\\yestanotherproblem.cpp","tests":[{"id":1752145324077,"input":"3\n8\n1 1 2 3 8 2 1 4\n2\n1 2\n10\n0 2 1 6 3 4 1 2 8 3","output":"3\n0\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\COMPETETIVE PROGRAMMING\\yestanotherproblem.cpp","group":"local","local":true}
